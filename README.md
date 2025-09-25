@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jhonatan</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working as a **web developer** at **Águia Sistemas Ltda**.
+- 🔭 I’m currently working as a **web developer** at **Águia Sistemas de Armazenagem SA**.
   
 - 🌱 I’m currently learning **gRPC and Testing Frameworks**.
 
